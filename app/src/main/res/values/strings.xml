@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MRWAndroid</string>
+    <string name="hello">Hello Alex</string>
+
+
+    <string name="topbarProfile">Profile</string>
 </resources>
